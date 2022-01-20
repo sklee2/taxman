@@ -1,0 +1,19 @@
+{
+  "name": "taxman",
+  "version": "1.0.0",
+  "description": "taxman cmd",
+  "main": "index.js",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "taxman",
+    "tax"
+  ],
+  "author": "rion5",
+  "license": "ISC"
+}
